@@ -33,7 +33,16 @@ This project integrates YOLOv5 with the Intel RealSense D435 depth camera to:
 
 - Python 3.x  
 - PyTorch + YOLOv5 dependencies  
-- Intel RealSense SDK (librealsense) and Python bindings  
+- Intel RealSense SDK (librealsense) and Python bindings (`pyrealsense2`)  
 - A connected Intel RealSense D435 camera
 
 ---
+
+## Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/WillWu111/Real-Time-Object-Detection-with-Depth.git
+cd Real-Time-Object-Detection-with-Depth
+```
